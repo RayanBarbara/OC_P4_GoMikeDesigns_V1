@@ -14,6 +14,8 @@ For this project, only the following technologies are allowed:
 - CSS
 - JS
 
+__Here you have the not-optimized version of Mike's website.___
+
 ## How to install and run the project
 
 To test simply & quickly, please visit the online demo: 
