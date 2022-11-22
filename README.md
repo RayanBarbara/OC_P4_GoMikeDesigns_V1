@@ -1,7 +1,7 @@
 # Open Classroom project n°4 - GoMike Designs
 
 ## Project description
-GoMike designs is a portfolio used by a freelance web designer living in Atlanta. The version here is an unoptimized one for SEO. The project goal is to optimize it.
+GoMike designs is a portfolio used by a freelance web designer living in Atlanta. The project goal is to optimize its SEO and accessibility.
 
 For this project, only the following technologies are allowed:
 
@@ -9,7 +9,7 @@ For this project, only the following technologies are allowed:
 - CSS
 - JS
 
-__Here you have the not-optimized version of Mike's website.___
+__Here you have the not-optimized version of Mike's website.__
 
 ## How to install and run the project
 
